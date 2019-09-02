@@ -1,0 +1,2011 @@
+fileFormatVersion: 2
+guid: f30540f7b54644f459207cb685c22103
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: artfont_tip_began_to_bet_on
+    21300002: artfont_tip_choose_the_seat
+    21300004: artfont_tip_stop_betting
+    21300006: artfont_tip_waiting_for
+    21300008: chip_big_black_continue
+    21300010: chip_big_blue_500
+    21300012: chip_big_green_25
+    21300014: chip_big_orange_5
+    21300016: chip_big_purple_1k
+    21300018: chip_big_red_1
+    21300020: chip_big_yellow_100
+    21300022: chip_projection_small_black_continue
+    21300024: chip_projection_small_blue_500
+    21300026: chip_projection_small_green_25
+    21300028: chip_projection_small_orange_5
+    21300030: chip_projection_small_purple_1k
+    21300032: chip_projection_small_yellow_1
+    21300034: chip_projection_small_yellow_100
+    21300036: chip_small_black_continue
+    21300038: chip_small_blue_500
+    21300040: chip_small_green_25
+    21300042: chip_small_orange_5
+    21300044: chip_small_purple_1k
+    21300046: chip_small_yellow_1
+    21300048: chip_small_yellow_100
+    21300050: images_artfont_tip_bg_01
+    21300052: images_artfont_tip_bg_02
+    21300054: images_chip_bet_the_selected
+    21300056: images_fortunella_venosa_bg(1)
+    21300058: images_fortunella_venosa_bg
+    21300060: images_fortunella_venosa_increase_bjutton
+    21300062: images_head_portraitbg_me
+    21300064: images_head_portraitbg_player
+    21300066: menu_exit_normal
+    21300068: menu_exit_press
+    21300070: menu_player_normal
+    21300072: menu_player_press
+    21300074: menu_record_normal
+    21300076: menu_record_press
+    21300078: menu_return_normal
+    21300080: menu_return_press
+    21300082: menu_rules_normal
+    21300084: menu_rules_press
+    21300086: menu_setting_normal
+    21300088: menu_setting_press
+    21300090: menu_sound_close_normal
+    21300092: menu_sound_close_press
+    21300094: menu_sound_normal
+    21300096: menu_sound_press
+    21300098: chip_big_1
+    21300100: chip_big_1k
+    21300102: chip_big_1w
+    21300104: chip_big_5
+    21300106: chip_big_5k
+    21300108: chip_big_10
+    21300110: chip_big_10w
+    21300112: chip_big_25
+    21300114: chip_big_50
+    21300116: chip_big_100
+    21300118: chip_big_250
+    21300120: chip_big_500
+    21300122: chip_big_xuya
+    21300124: chip_small_1
+    21300126: chip_small_1_touying
+    21300128: chip_small_1k
+    21300130: chip_small_1k_touying
+    21300132: chip_small_1w
+    21300134: chip_small_1w_touying
+    21300136: chip_small_5
+    21300138: chip_small_5_touying
+    21300140: chip_small_5k
+    21300142: chip_small_5k_touying
+    21300144: chip_small_10
+    21300146: chip_small_10_touying
+    21300148: chip_small_10w
+    21300150: chip_small_10w_touying
+    21300152: chip_small_25
+    21300154: chip_small_25_touying
+    21300156: chip_small_50
+    21300158: chip_small_50_touying
+    21300160: chip_small_100
+    21300162: chip_small_100_touying
+    21300164: chip_small_250
+    21300166: chip_small_250_touying
+    21300168: chip_small_500
+    21300170: chip_small_500_touying
+    21300172: chip_small_xuya
+    21300174: chip_small_xuya_touying
+    21300176: Group 2
+    21300178: poker_fasngkuai_red_2
+    21300180: poker_fasngkuai_red_3
+    21300182: poker_fasngkuai_red_4
+    21300184: poker_fasngkuai_red_5
+    21300186: poker_fasngkuai_red_6
+    21300188: poker_fasngkuai_red_7
+    21300190: poker_fasngkuai_red_8
+    21300192: poker_fasngkuai_red_9
+    21300194: poker_fasngkuai_red_10
+    21300196: poker_fasngkuai_red_a
+    21300198: poker_fasngkuai_red_j
+    21300200: poker_fasngkuai_red_k
+    21300202: poker_fasngkuai_red_q
+    21300204: poker_heitao_black_2
+    21300206: poker_heitao_black_3
+    21300208: poker_heitao_black_4
+    21300210: poker_heitao_black_5
+    21300212: poker_heitao_black_6
+    21300214: poker_heitao_black_7
+    21300216: poker_heitao_black_8
+    21300218: poker_heitao_black_9
+    21300220: poker_heitao_black_10
+    21300222: poker_heitao_black_a
+    21300224: poker_heitao_black_j
+    21300226: poker_heitao_black_k
+    21300228: poker_heitao_black_q
+    21300230: poker_hongxin_red_2
+    21300232: poker_hongxin_red_3
+    21300234: poker_hongxin_red_4
+    21300236: poker_hongxin_red_5
+    21300238: poker_hongxin_red_6
+    21300240: poker_hongxin_red_7
+    21300242: poker_hongxin_red_8
+    21300244: poker_hongxin_red_9
+    21300246: poker_hongxin_red_10
+    21300248: poker_hongxin_red_a
+    21300250: poker_hongxin_red_j
+    21300252: poker_hongxin_red_k
+    21300254: poker_hongxin_red_q
+    21300256: poker_meihua_black_2
+    21300258: poker_meihua_black_3
+    21300260: poker_meihua_black_4
+    21300262: poker_meihua_black_5
+    21300264: poker_meihua_black_6
+    21300266: poker_meihua_black_7
+    21300268: poker_meihua_black_8
+    21300270: poker_meihua_black_9
+    21300272: poker_meihua_black_10
+    21300274: poker_meihua_black_a
+    21300276: poker_meihua_black_j
+    21300278: poker_meihua_black_k
+    21300280: poker_meihua_black_q
+    21300282: texture_sexboy
+    21300284: texture_sexgirl
+    21300286: chip_big_1000
+    21300288: chip_big_5000
+    21300290: chip_big_10000
+    21300292: chip_big_100000
+    21300294: chip_small_1000
+    21300296: chip_small_1000_touying
+    21300298: chip_small_5000
+    21300300: chip_small_5000_touying
+    21300302: chip_small_10000
+    21300304: chip_small_10000_touying
+    21300306: chip_small_100000
+    21300308: chip_small_100000_touying
+    21300310: 1
+    21300312: 5
+    21300314: 10
+    21300316: 25
+    21300318: 50
+    21300320: 100
+    21300322: 250
+    21300324: 500
+    21300326: 1000
+    21300328: 5000
+    21300330: 10000
+    21300332: 100000
+    21300334: dialog_online_player_bg
+    21300336: dialog_title_online_player
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1843
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1277
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1745
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1090
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1470
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 100
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1035
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 250
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1090
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 500
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1470
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1000
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 937
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 5000
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1470
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 10000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 100000
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 982
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: artfont_tip_began_to_bet_on
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1957
+        width: 170
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: artfont_tip_choose_the_seat
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2001
+        width: 307
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: artfont_tip_stop_betting
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1956
+        width: 171
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: artfont_tip_waiting_for
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2002
+        width: 348
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_big_xuya
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1647
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1191
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_1_touying
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 940
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 13
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_5_touying
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 945
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 800
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_10_touying
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 13
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 185
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_25_touying
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1417
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 465
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_50_touying
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 745
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_100
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 901
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_100_touying
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 13
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_250
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 99
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_250_touying
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 945
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_500
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 641
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_500_touying
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 745
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_1000
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 551
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_1000_touying
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_5000
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 555
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_5000_touying
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 41
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_10000
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 357
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_10000_touying
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 939
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_100000
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 271
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_100000_touying
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 939
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_xuya
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 800
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chip_small_xuya_touying
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 903
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dialog_online_player_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1201
+        width: 138
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dialog_title_online_player
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1964
+        width: 160
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Group 2
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1770
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_artfont_tip_bg_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1971
+        width: 652
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_artfont_tip_bg_02
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1971
+        width: 472
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_chip_bet_the_selected
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1856
+        width: 142
+        height: 143
+      alignment: 9
+      pivot: {x: 0.50352114, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_fortunella_venosa_bg(1)
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 907
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_fortunella_venosa_bg
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1941
+        width: 128
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_fortunella_venosa_increase_bjutton
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1281
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_head_portraitbg_me
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1951
+        width: 240
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_head_portraitbg_player
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1549
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_exit_normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1380
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_exit_press
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1380
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_player_normal
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 443
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_player_press
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1380
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_record_normal
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 353
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_record_press
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 817
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_return_normal
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 263
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_return_press
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 727
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_rules_normal
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 173
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_rules_press
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_setting_normal
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 83
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_setting_press
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 55
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_sound_close_normal
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 443
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_sound_close_press
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1380
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_sound_normal
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 637
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_sound_press
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1459
+        width: 85
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5058824, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1757
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_3
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1662
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_4
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1563
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_5
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1521
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_6
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1576
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_7
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1468
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1369
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1327
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_10
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1763
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_a
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_j
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_k
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_fasngkuai_red_q
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_4
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1762
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_5
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1569
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1568
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_7
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1382
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_8
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1375
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_9
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1274
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1777
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_a
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1188
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_j
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1175
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_k
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1080
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_heitao_black_q
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1133
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_2
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 939
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 743
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_8
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_10
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 981
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_a
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1583
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_j
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1374
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_k
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1181
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_hongxin_red_q
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 994
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_2
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 787
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 745
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 533
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 533
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 745
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 987
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_10
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 886
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_a
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1186
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_j
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 987
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_k
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1389
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: poker_meihua_black_q
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1195
+        width: 140
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_sexboy
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1833
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_sexgirl
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1715
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

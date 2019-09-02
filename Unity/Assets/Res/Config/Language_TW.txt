@@ -1,0 +1,3 @@
+errorDefault=網絡錯誤，請稍後重試
+UserLanguage=簡體中文^English^繁體中文
+

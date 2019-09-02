@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: Fish_Fire1
+    gameObject: {fileID: 8300000, guid: c89a163d78dfe4e45ba662d36a991c81, type: 3}
+  - key: Fish_Fire2
+    gameObject: {fileID: 8300000, guid: bee21106f1a41e241bb0f03f4ab8e5da, type: 3}
+  - key: Fish_BG0
+    gameObject: {fileID: 8300000, guid: 25783bce99564af4a9a102ed7f893799, type: 3}
+  - key: Fish_BG1
+    gameObject: {fileID: 8300000, guid: 8b146309fedae74448ac4fd4c3fb1087, type: 3}
+  - key: Fish_BG2
+    gameObject: {fileID: 8300000, guid: 95c34069ea0f49346a19b05f8c3109c1, type: 3}
+  - key: Fish_BG3
+    gameObject: {fileID: 8300000, guid: 72fd8cf4cf3690642b10d8befa1dd2ce, type: 3}
+  - key: Fish_BG4
+    gameObject: {fileID: 8300000, guid: baf77d3e0f6f233499a3b3b0f895923c, type: 3}
+  - key: Fish_FireUp
+    gameObject: {fileID: 8300000, guid: b5a21d5d9561e9947b5af695e107daf2, type: 3}
+  - key: Fish_FireDown
+    gameObject: {fileID: 8300000, guid: b04cc581a88118e4bb7df20c4af6b156, type: 3}
+  - key: Fish_byCoin
+    gameObject: {fileID: 8300000, guid: 43a2ec8bebe8eb0439b1d4fe8d0322b3, type: 3}
+  - key: Fish_Die0
+    gameObject: {fileID: 8300000, guid: 2ab776d22fff5af4ea08b40ae5635b4a, type: 3}
+  - key: Fish_Die1
+    gameObject: {fileID: 8300000, guid: 77b3f9cc09b26604687ef4e7eebbd2f9, type: 3}
+  - key: Fish_Die2
+    gameObject: {fileID: 8300000, guid: 0addb74fd9327d946ae015f782dfd4f0, type: 3}
+  - key: Fish_Die3
+    gameObject: {fileID: 8300000, guid: 0966ba277dc27414d83665bdc0251f0d, type: 3}
+  - key: Fish_Die4
+    gameObject: {fileID: 8300000, guid: f9366cac3b53675448131b88e2fd17ab, type: 3}
+  - key: Fish_Die5
+    gameObject: {fileID: 8300000, guid: 6001066b2025d6f40b94074cd2344e8c, type: 3}
+  - key: Fish_Die6
+    gameObject: {fileID: 8300000, guid: ce5f7d44aa3dbd841a0e6d44d67575d6, type: 3}
+  - key: Fish_Die7
+    gameObject: {fileID: 8300000, guid: d40b93f8196fd94429910a8247fbdacd, type: 3}
+  - key: Fish_Die8
+    gameObject: {fileID: 8300000, guid: 4fec83ee2fca5554a98d69414d80ebc0, type: 3}
+  - key: Fish_Die9
+    gameObject: {fileID: 8300000, guid: 2f60bf99918da744a815532a4fc5dc27, type: 3}
+  - key: Fish_Die10
+    gameObject: {fileID: 8300000, guid: ec2aea7cfc90ebb46b83b99f5f0a3bd9, type: 3}
+  - key: Fish_Die11
+    gameObject: {fileID: 8300000, guid: 135367b77da054c40acf08a042f111ba, type: 3}
+  - key: Fish_Die12
+    gameObject: {fileID: 8300000, guid: b50453b7cff9b0340b8c8bf2e299face, type: 3}
+  - key: Fish_Die13
+    gameObject: {fileID: 8300000, guid: 7ffac859cd532b14bac52e7302c642dc, type: 3}
+  - key: Fish_Die14
+    gameObject: {fileID: 8300000, guid: 819d8c66f500e624c86b90baf5424e2e, type: 3}
+  - key: Fish_Die15
+    gameObject: {fileID: 8300000, guid: 728c06c69f5433f469acc2bf009dacf5, type: 3}
+  - key: Fish_Die16
+    gameObject: {fileID: 8300000, guid: 34aa35fadf8470d4b8e62c6c64c81045, type: 3}
+  - key: Fish_Die17
+    gameObject: {fileID: 8300000, guid: 4e4e4fc076be96e4db1867ef4089b8b0, type: 3}
+  - key: Fish_Die18
+    gameObject: {fileID: 8300000, guid: d3363518a0416344eb57608cfed74838, type: 3}
+  - key: Fish_Die19
+    gameObject: {fileID: 8300000, guid: 1b492afacbbb69b4bbbfc80eb3d1e57c, type: 3}
+  - key: Fish_Die20
+    gameObject: {fileID: 8300000, guid: cd28772be9b2e0a4585b64b9f8ae3abe, type: 3}
+  - key: Fish_Die21
+    gameObject: {fileID: 8300000, guid: dfa8d7a56f3869e478825af94c41a4b1, type: 3}
+  - key: Fish_Die22
+    gameObject: {fileID: 8300000, guid: 2f416ec194f43fa49b2027a797d7e3d4, type: 3}
+  - key: Fish_Die23
+    gameObject: {fileID: 8300000, guid: 07f8aff627f026a4d928ddc154848ad2, type: 3}
+  - key: Fish_Die24
+    gameObject: {fileID: 8300000, guid: c147ee9f04b84684ea64bc82ae267c61, type: 3}
+  - key: Fish_Die25
+    gameObject: {fileID: 8300000, guid: c2a805f075df6a746a9f6c9ae880415a, type: 3}
+  - key: Fish_Die26
+    gameObject: {fileID: 8300000, guid: be2db8b976a8c604182590ed0971fc6b, type: 3}
+  - key: Fish_Die27
+    gameObject: {fileID: 8300000, guid: 9b54e7a370a448f4eab99721c904b383, type: 3}
+  - key: Fish_Die28
+    gameObject: {fileID: 8300000, guid: d6d9f5a282b2e9b459d65307fd0e2001, type: 3}

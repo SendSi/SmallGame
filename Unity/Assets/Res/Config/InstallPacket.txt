@@ -1,0 +1,1 @@
+{"Android":"0.0.1","AndroidUrl":"http://192.168.0.204:8080/gamecenter.apk","ApkName":"gamecenter.apk","ApkSize":57410321,"IOS":"0.0.1","IOSUrl":"http://www.baidu.com","Msg":"版本更新@%Update Version@%版本更新@%对用户体验做了优化@%Optimize user experience@%對用戶體驗做了優化@%更新@%Update@%更新","IOSAppStore":"1.0.0","IsAppStore":false,"CheckRes":false}

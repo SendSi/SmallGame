@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: 6dfa9716254a42c4abe9d585def1a316
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pannel_guanbianniu
+    21300002: pannel_duihuanjilutxt
+    21300004: pannel_hudongliuyantxtblue
+    21300006: pannel_3
+    21300008: pannel_4
+    21300010: pannel_gerenxinxitxt
+    21300012: pannel_6
+    21300014: pannel_7
+    21300016: pannel_8
+    21300018: pannel_9
+    21300020: pannel_paihangbangtxt
+    21300022: pannel_11
+    21300024: pannel_12
+    21300026: pannel_13
+    21300028: pannel_14
+    21300030: pannel_15
+    21300032: pannel_16
+    21300034: pannel_17
+    21300036: pannel_chatbgimg
+    21300038: pannel_zhucetxt
+    21300040: pannel_20
+    21300042: pannel_gonggaotxt
+    21300044: pannel_22
+    21300046: pannel_diyimingimg
+    21300048: pannel_diermingimg
+    21300050: pannel_disanmingimg
+    21300052: pannel_paihangbangmorenmingciimg
+    21300054: pannel_chongzhitxt
+    21300056: pannel_28
+    21300058: pannel_qingxuanzeninyaosiyongdetouxiang
+    21300060: pannel_30
+    21300062: pannel_31
+    21300064: pannel_32
+    21300066: pannel_33
+    21300068: pannel_34
+    21300070: pannel_35
+    21300072: pannel_36
+    21300074: pannel_37
+    21300076: pannel_38
+    21300078: pannel_fanhuiimg
+    21300080: pannel_baoxianxiangtxt
+    21300082: pannel_paihangbangbeijing
+    21300084: pannel_beijingdaidaoying
+    21300086: pannel_denglubeijingimg
+    21300088: pannel_chuangkoubeijingimg
+    21300090: pannel_youjianitem
+    21300092: pannel_youjianbeijingimg
+    21300094: pannel_47
+    21300096: pannel_48
+    21300098: pannel_dianjifuzhiguanfangweixinimg
+    21300100: pannel_beijingdaidaoying2
+    21300102: pannel_lanbeidianwanlogo
+    21300104: pannel_lantiao
+    21300106: pannel_duitxt
+    21300108: pannel_huantxt
+    21300110: pannel_dailitxt
+    21300112: pannel_kefutxt
+    21300114: pannel_yinhangkayellow
+    21300116: pannel_zhifubaoyellow
+    21300118: pannel_bangdingyellow
+    21300120: pannel_kefuweixintextred
+    21300122: pannel_hudongliuyantxtred
+    21300124: pannel_kefuweixintxtblue
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pannel_guanbianniu
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_duihuanjilutxt
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 976
+        width: 186
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_gerenxinxitxt
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 976
+        width: 186
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_paihangbangtxt
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 976
+        width: 140
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 953
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_14
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 971
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_16
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 977
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_17
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 953
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_chatbgimg
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 950
+        width: 98
+        height: 74
+      alignment: 9
+      pivot: {x: 0.50416535, y: 0.51689434}
+      border: {x: 49, y: 38, z: 49, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_zhucetxt
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 918
+        width: 119
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_gonggaotxt
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 918
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_diyimingimg
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_diermingimg
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 896
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_disanmingimg
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 896
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_paihangbangmorenmingciimg
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 862
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_chongzhitxt
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 854
+        width: 183
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_qingxuanzeninyaosiyongdetouxiang
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 469
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_fanhuiimg
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 822
+        width: 171
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_baoxianxiangtxt
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 760
+        width: 241
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_paihangbangbeijing
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 728
+        width: 503
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 217, y: 0, z: 281, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_beijingdaidaoying
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 425
+        width: 79
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 222, z: 0, w: 156}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_denglubeijingimg
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 296
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_chuangkoubeijingimg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 241
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_youjianitem
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 612
+        width: 167
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 114, y: 0, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_youjianbeijingimg
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 412
+        width: 113
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 107, y: 133, z: 0, w: 48}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 162
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 228
+        width: 146
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_dianjifuzhiguanfangweixinimg
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 228
+        width: 205
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_beijingdaidaoying2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 84
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_lanbeidianwanlogo
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 394
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_lantiao
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 712
+        width: 1
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_duitxt
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 976
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_huantxt
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 976
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_dailitxt
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 534
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_kefutxt
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 183
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_yinhangkayellow
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 471
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_zhifubaoyellow
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 414
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_bangdingyellow
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 653
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_kefuweixintextred
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 170
+        width: 185
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_hudongliuyantxtred
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 117
+        width: 185
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_kefuweixintxtblue
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 64
+        width: 186
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pannel_hudongliuyantxtblue
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 11
+        width: 186
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

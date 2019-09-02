@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 9fb47d8ae93a0fb4c9014a42647b349b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zhuang_PaiLu1
+    21300002: he_PaiLu1
+    21300004: xian_PaiLu1
+    21300006: xian_JinBiLanDi
+    21300008: zhuang_JinBiHongDi
+    21300010: he_JinBiLvDi
+    21300012: he_PaiLu2
+    21300014: hong_PaiLu_Three
+    21300016: lan_PaiLu_Three
+    21300018: hong_PaiLu_Two
+    21300020: lan_PaiLu_Two
+    21300022: zhuangdui__PaiLu1
+    21300024: xiandui__PaiLu1
+    21300026: "\u767E\u5BB6\u4E50_13"
+    21300028: "\u767E\u5BB6\u4E50_14"
+    21300030: "\u767E\u5BB6\u4E50_15"
+    21300032: hong_PaiLu_One
+    21300034: lan_PaiLu_One
+    21300036: he_XiaZhuQuYu
+    21300038: XianDui_XiaZhuQuYu
+    21300040: XianZhuangDui_XiaZhuQuYuGuang
+    21300042: ZhuangDui_XiaZhuQuYu
+    21300044: He_XiaZhuQuYuGuang
+    21300046: he_XiaZhuQuYuGuang
+    21300048: Zhuang_XiaZhuQuYu
+    21300050: XianZhuang_XiaZhuQuYuGuang
+    21300052: PaiLu_BG
+    21300054: Xian_XiaZhuQuYu
+    21300056: ZhuoZi_BG
+    21300058: Xian_XiaZhuQuYuGuang
+    21300060: GuanBi_Button
+    21300062: Null
+    21300064: zhuang_PaiLu2
+    21300066: Xian_PaiLu2
+    21300068: baijiale_images_blue_xian
+    21300070: baijiale_images_blue_xiegang
+    21300072: baijiale_images_blue_yuan
+    21300074: baijiale_images_blue_yuanhuan
+    21300076: baijiale_images_blue_yuanhuan_small
+    21300078: baijiale_images_green_he
+    21300080: baijiale_images_green_xiegang
+    21300082: baijiale_images_green_yuanhuan
+    21300084: baijiale_images_red_xiegang
+    21300086: baijiale_images_red_yuan
+    21300088: baijiale_images_red_yuanhuan
+    21300090: baijiale_images_red_yuanhuan_small
+    21300092: baijiale_images_red_zhuang
+    21300094: clip_input_banker
+    21300096: clip_input_banker_card
+    21300098: clip_input_bpair
+    21300100: clip_input_logo
+    21300102: clip_input_player_card
+    21300104: clip_input_players
+    21300106: clip_input_ppair
+    21300108: clip_input_tie
+    21300110: dialog_bg_baijiale_jilu
+    21300112: images_fortunella_venosa_bg
+    21300114: baijiale_images_blue_yuandian
+    21300116: baijiale_images_red_yuandian
+    21300118: clip_input_banker_current
+    21300120: clip_input_bpair_current
+    21300122: clip_input_players_current
+    21300124: clip_input_ppair_current
+    21300126: clip_input_tie_current
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baijiale_images_blue_xian
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2005
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_blue_xiegang
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1829
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_blue_yuan
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1876
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_blue_yuandian
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1844
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_blue_yuanhuan
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1894
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_blue_yuanhuan_small
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1843
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_green_he
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1961
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_green_xiegang
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1857
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_green_yuanhuan
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1894
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_red_xiegang
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1830
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_red_yuan
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1858
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_red_yuandian
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1844
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_red_yuanhuan
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1871
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_red_yuanhuan_small
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1830
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: baijiale_images_red_zhuang
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1917
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_banker
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1167
+        width: 488
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_banker_card
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 295
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_banker_current
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1591
+        width: 522
+        height: 456
+      alignment: 9
+      pivot: {x: 0.50095785, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_bpair
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 316
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_bpair_current
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 769
+        width: 349
+        height: 259
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5019305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_logo
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1146
+        width: 395
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_player_card
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 296
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_players
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1167
+        width: 486
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_players_current
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1593
+        width: 520
+        height: 454
+      alignment: 9
+      pivot: {x: 0.50096154, y: 0.49669603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_ppair
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 316
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_ppair_current
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1030
+        width: 350
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_tie
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1324
+        width: 406
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: clip_input_tie_current
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1290
+        width: 435
+        height: 216
+      alignment: 9
+      pivot: {x: 0.50229883, y: 0.4976852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dialog_bg_baijiale_jilu
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1508
+        width: 952
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: images_fortunella_venosa_bg
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1478
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 12, z: 15, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

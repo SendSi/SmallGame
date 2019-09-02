@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: lansha_Data
+  m_EditorClassIdentifier: 
+  dataName: lansha
+  dragonBonesJSON: {fileID: 4900000, guid: 46831bed1c5b23b4280a971680e70cab, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: c3bdc05ecff844844808739ad97068ee, type: 3}
+    texture: {fileID: 2800000, guid: e049b5bf55a00664795363d90219295d, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: 0746976ca9f173f48b641ad4bbb968b8, type: 2}

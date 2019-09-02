@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1721544207891024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4697655011189034}
+  - component: {fileID: 114052459199459742}
+  m_Layer: 0
+  m_Name: KV
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4697655011189034
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1721544207891024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114052459199459742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1721544207891024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: UICarrierDataNetwork
+    gameObject: {fileID: 3794397987390314896, guid: c898e3f184d4b4f4a82374065a664ad3,
+      type: 3}
+  - key: UIDefault
+    gameObject: {fileID: 4710660810001254565, guid: 1fa0296f9ec6656469f546876c1a5ea7,
+      type: 3}
+  - key: UIDialog
+    gameObject: {fileID: 1300819977486277703, guid: 098bf957b0227794c8b66089277bb54b,
+      type: 3}
+  - key: UILoading
+    gameObject: {fileID: 1386170326414932, guid: 0deea0b3b021a714d8c54816d4ee5fbe,
+      type: 3}
+  - key: UIToast
+    gameObject: {fileID: 3881577276419958983, guid: 41ffcd9fb966df04d9d4a19f2b823bbb,
+      type: 3}
+  - key: GlobalProto_Test
+    gameObject: {fileID: 4900000, guid: 70455c04995850845928ee3966047e3b, type: 3}
+  - key: GlobalProto_Offline
+    gameObject: {fileID: 4900000, guid: 5ba2cdfe3c596474dae6feca60db044c, type: 3}
+  - key: GlobalProto_AppStore
+    gameObject: {fileID: 4900000, guid: 9295952eecda4244384754cf63d64837, type: 3}
+  - key: GlobalProto
+    gameObject: {fileID: 4900000, guid: 78f3a209a7b81ec46a196b52eea7e541, type: 3}

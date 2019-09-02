@@ -1,0 +1,3 @@
+errorDefault=Failed to connect, please try again later.
+UserLanguage=Simplified Chinese^English^Traditional Chinese
+

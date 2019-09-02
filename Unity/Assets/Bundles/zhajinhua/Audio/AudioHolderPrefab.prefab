@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: add_boy_1
+    gameObject: {fileID: 8300000, guid: 2dfe0707ea1751a458ae064892340177, type: 3}
+  - key: add_boy_2
+    gameObject: {fileID: 8300000, guid: c29bc86edf516fa4aac1793d9664c5aa, type: 3}
+  - key: add_boy_3
+    gameObject: {fileID: 8300000, guid: f4df5da0a23bc654ba142935e7ce9cca, type: 3}
+  - key: all_boy_1
+    gameObject: {fileID: 8300000, guid: 4239492db27e54f40801c33e4b830bd0, type: 3}
+  - key: all_boy_2
+    gameObject: {fileID: 8300000, guid: e31f74c532b546546acf3d73451e175e, type: 3}
+  - key: all_boy_3
+    gameObject: {fileID: 8300000, guid: e0cc60db3b0d7ca4385e1308641baec6, type: 3}
+  - key: all_boy_4
+    gameObject: {fileID: 8300000, guid: 4bf5e82b80d070b4690ed3e6140e1361, type: 3}
+  - key: cmp_boom
+    gameObject: {fileID: 8300000, guid: 98df7eab36ee9ca4b83941230c0982d8, type: 3}
+  - key: cmp_boy_1
+    gameObject: {fileID: 8300000, guid: ce444096a4611f14fb354fbc5a9d4e4b, type: 3}
+  - key: cmp_boy_2
+    gameObject: {fileID: 8300000, guid: 78b8f093657bb2b42adace9bd3f20833, type: 3}
+  - key: cmp_boy_3
+    gameObject: {fileID: 8300000, guid: 33b52caa465249d42a18b3ae0a90a7ea, type: 3}
+  - key: drop_boy_1
+    gameObject: {fileID: 8300000, guid: 526ce331b04995549963174a03be3a83, type: 3}
+  - key: drop_boy_2
+    gameObject: {fileID: 8300000, guid: 760f23b1b16fdf045a1837e610dbc1a3, type: 3}
+  - key: drop_boy_3
+    gameObject: {fileID: 8300000, guid: e2ccc7d3c9f74194b946f1d112470fe8, type: 3}
+  - key: fail_boy_1
+    gameObject: {fileID: 8300000, guid: 08ead0d6fc9e9d444b40a4e19805f014, type: 3}
+  - key: fail_boy_2
+    gameObject: {fileID: 8300000, guid: 58fe0b1097d2f20408c49eeee4b21e5c, type: 3}
+  - key: fail_boy_3
+    gameObject: {fileID: 8300000, guid: e2c8e4a25d4c62941acad4a2c81648c7, type: 3}
+  - key: fly_gold
+    gameObject: {fileID: 8300000, guid: 652c3e50bae2f33409b2a5b58dc8df24, type: 3}
+  - key: follow_boy_1
+    gameObject: {fileID: 8300000, guid: cc4f26f782bfd464697f44e78af079ef, type: 3}
+  - key: follow_boy_2
+    gameObject: {fileID: 8300000, guid: 39d6f77c3316d4b498eaf22387f0ba51, type: 3}
+  - key: follow_boy_3
+    gameObject: {fileID: 8300000, guid: c68e48b37ca21f54694330a3ca27a009, type: 3}
+  - key: see_boy_1
+    gameObject: {fileID: 8300000, guid: 84377a5187e4d024293b6a94bf648667, type: 3}
+  - key: see_boy_2
+    gameObject: {fileID: 8300000, guid: 06ee221d2317f76459b6974e96ae4658, type: 3}
+  - key: see_boy_3
+    gameObject: {fileID: 8300000, guid: 19e47f276d5e8f64585a58c256a72de9, type: 3}
+  - key: sendcards
+    gameObject: {fileID: 8300000, guid: f33ce685b7900c942b8b9079e02e2c53, type: 3}
+  - key: special_bg
+    gameObject: {fileID: 8300000, guid: 845300909646cdc4bb12dfb932986d27, type: 3}
+  - key: zhajinhuaBG
+    gameObject: {fileID: 8300000, guid: 7a4c29cfd043f664f9502a4af80d017d, type: 3}

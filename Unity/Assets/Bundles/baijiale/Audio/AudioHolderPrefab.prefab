@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: BaiJiaLe_BaiJiaLeBG
+    gameObject: {fileID: 8300000, guid: 7f18cdb2a25b5e642a93ea1981a2dc0a, type: 3}
+  - key: BaiJiaLe_He
+    gameObject: {fileID: 8300000, guid: 50dbb771ced19d54a944a79bf70b52d9, type: 3}
+  - key: BaiJiaLe_Xian8
+    gameObject: {fileID: 8300000, guid: 74d9bf064ab8c614c9f2f7bdda978948, type: 3}
+  - key: BaiJiaLe_Xian9
+    gameObject: {fileID: 8300000, guid: 9b3e7d04135060c4ab7926eb96288522, type: 3}
+  - key: BaiJiaLe_XianDui
+    gameObject: {fileID: 8300000, guid: f3143053ae621354a9170accd9ee5eef, type: 3}
+  - key: BaiJiaLe_XianWin
+    gameObject: {fileID: 8300000, guid: b90752fe7aefb184484a04d083528c26, type: 3}
+  - key: BaiJiaLe_Zhuang8
+    gameObject: {fileID: 8300000, guid: 99c4a30d0dd77f84897cc51133d05e78, type: 3}
+  - key: BaiJiaLe_Zhuang9
+    gameObject: {fileID: 8300000, guid: 25ae820cd4133ab4a810a50280cbd313, type: 3}
+  - key: BaiJiaLe_ZhuangDui
+    gameObject: {fileID: 8300000, guid: 064cc6c2b80a16343b8b6632a7b281ab, type: 3}
+  - key: BaiJiaLe_ZhuangWin
+    gameObject: {fileID: 8300000, guid: e7a60889717a8a143b4dba72f0d1fce8, type: 3}

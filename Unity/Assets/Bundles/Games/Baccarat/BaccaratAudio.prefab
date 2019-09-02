@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7409965648801416030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4556105675806100676}
+  - component: {fileID: 4678113619146078717}
+  m_Layer: 5
+  m_Name: BaccaratAudio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4556105675806100676
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7409965648801416030}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &4678113619146078717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7409965648801416030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: activity_hong_bao_yu
+    gameObject: {fileID: 8300000, guid: 062c72043ffdaac439292c8d19891c15, type: 3}
+  - key: sfx_action_alert
+    gameObject: {fileID: 8300000, guid: 3142eb7f76c558748a5559ba98e5056b, type: 3}
+  - key: sfx_bet
+    gameObject: {fileID: 8300000, guid: 1c3bc1f27b922cc4b860d017057b8625, type: 3}
+  - key: sfx_click
+    gameObject: {fileID: 8300000, guid: 4481b3a606f59254b8a082229cead6c3, type: 3}
+  - key: sfx_desk_bet_first
+    gameObject: {fileID: 8300000, guid: 616ccd046a80f6a43aef09137aeb9d46, type: 3}
+  - key: sfx_desk_bet_second
+    gameObject: {fileID: 8300000, guid: fd0ec603b870c184c845ef5640d910b1, type: 3}
+  - key: sfx_desk_chat
+    gameObject: {fileID: 8300000, guid: d009ad7c485f1394694a9adc7f964196, type: 3}
+  - key: sfx_desk_move_chips
+    gameObject: {fileID: 8300000, guid: 40b90495625c31740bbee90d0da064e0, type: 3}
+  - key: sfx_desk_new_card
+    gameObject: {fileID: 8300000, guid: bd13a32f9c52d9849a2cc5b97c427769, type: 3}
+  - key: sfx_desk_player_check
+    gameObject: {fileID: 8300000, guid: 14b3f0697b024f048b5d37097d982061, type: 3}
+  - key: sfx_desk_player_fold
+    gameObject: {fileID: 8300000, guid: 5b87d6401b153b84a8e233808f92f0e8, type: 3}
+  - key: sfx_desk_player_turn
+    gameObject: {fileID: 8300000, guid: 6ffdc9d496d834f47922b89a011426bf, type: 3}
+  - key: sfx_desk_post_raise
+    gameObject: {fileID: 8300000, guid: af22d86bf05b1284c89283df8dd2a7e1, type: 3}
+  - key: sfx_desk_shift
+    gameObject: {fileID: 8300000, guid: 192b993450b442c46bc9bb26433105e7, type: 3}
+  - key: sfx_eff_1
+    gameObject: {fileID: 8300000, guid: 9797099f85915b9408409027ec987759, type: 3}
+  - key: sfx_eff_2
+    gameObject: {fileID: 8300000, guid: dda81c7c737f5cf4480b4651fa961dcf, type: 3}
+  - key: sfx_game_wheel_tick
+    gameObject: {fileID: 8300000, guid: 9873f9e435103744ca4ff3aa6e243311, type: 3}
+  - key: sfx_jackpot_hit
+    gameObject: {fileID: 8300000, guid: cc4814126bb2d0241873aec9f9b0eeff, type: 3}
+  - key: sfx_poker_event
+    gameObject: {fileID: 8300000, guid: 582d8d473bea1514bab5deda9fa3f366, type: 3}

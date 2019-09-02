@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: BaiRen_bg
+    gameObject: {fileID: 8300000, guid: fba9f0e83f57ba443a239b576eba4252, type: 3}
+  - key: BaiRen_sendcard
+    gameObject: {fileID: 8300000, guid: a31d37077ce12c64ca2046ec0442bf0d, type: 3}
+  - key: BaiRen_showcard
+    gameObject: {fileID: 8300000, guid: eaab574fbafee6846b6ad796035016d9, type: 3}
+  - key: BaiRen_woman4bomb
+    gameObject: {fileID: 8300000, guid: 74b688a5d6790ff49bf6fcaf59297a62, type: 3}
+  - key: BaiRen_woman5flowerbull
+    gameObject: {fileID: 8300000, guid: 026dc6cabc3c8c14fae585ad41b6b1b0, type: 3}
+  - key: BaiRen_woman5littlebull
+    gameObject: {fileID: 8300000, guid: 4a73a1192933dbe4f821f7fd06a438d1, type: 3}
+  - key: BaiRen_womanbull0
+    gameObject: {fileID: 8300000, guid: 3fe44016677505d46992727788288ca4, type: 3}
+  - key: BaiRen_womanbull1
+    gameObject: {fileID: 8300000, guid: 277c70671a90e054193ab1474ee99c65, type: 3}
+  - key: BaiRen_womanbull2
+    gameObject: {fileID: 8300000, guid: b996aaffdcbb56b48bbda151ca7c848f, type: 3}
+  - key: BaiRen_womanbull3
+    gameObject: {fileID: 8300000, guid: c71e854fce2874b40add8b84fa6ba3a9, type: 3}
+  - key: BaiRen_womanbull4
+    gameObject: {fileID: 8300000, guid: 46093e9565fdd494f890778ae7fda006, type: 3}
+  - key: BaiRen_womanbull5
+    gameObject: {fileID: 8300000, guid: 3d2571777fc33324a9f3fb8e8d5d9db2, type: 3}
+  - key: BaiRen_womanbull6
+    gameObject: {fileID: 8300000, guid: 976c9577521664b4fb927f1c1ee1fff6, type: 3}
+  - key: BaiRen_womanbull7
+    gameObject: {fileID: 8300000, guid: 7f1bec6e2548d00458e42c5873088099, type: 3}
+  - key: BaiRen_womanbull8
+    gameObject: {fileID: 8300000, guid: 1efdb3c920d88b342b2fcfe96b35230e, type: 3}
+  - key: BaiRen_womanbull9
+    gameObject: {fileID: 8300000, guid: ed4ef2ae5161c0042b3598dad03a247a, type: 3}
+  - key: BaiRen_womanbull10
+    gameObject: {fileID: 8300000, guid: f9bfdf1836fd0a349a8fdac990347f91, type: 3}

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: LongHu_1Dot
+    gameObject: {fileID: 8300000, guid: 0a8a6d605920e2648af3d07d3576ae4a, type: 3}
+  - key: LongHu_2Dot
+    gameObject: {fileID: 8300000, guid: 0ded76b867fcc0548823ea4ed39a7690, type: 3}
+  - key: LongHu_3Dot
+    gameObject: {fileID: 8300000, guid: c84b90d419a766545bfd2b87cc0d640b, type: 3}
+  - key: LongHu_4Dot
+    gameObject: {fileID: 8300000, guid: acffc916be9b2064db181ec0bbf5ffdb, type: 3}
+  - key: LongHu_5Dot
+    gameObject: {fileID: 8300000, guid: 633879a7a8ecdd349a5187a902b74e03, type: 3}
+  - key: LongHu_6Dot
+    gameObject: {fileID: 8300000, guid: 648e82b251971164ca7207b9359bf86e, type: 3}
+  - key: LongHu_7Dot
+    gameObject: {fileID: 8300000, guid: a285156babfca26439b0548b140d8229, type: 3}
+  - key: LongHu_8Dot
+    gameObject: {fileID: 8300000, guid: 47868c147f3458245841bcc9d4d12308, type: 3}
+  - key: LongHu_9Dot
+    gameObject: {fileID: 8300000, guid: 09cabce6851666c42a109687ae425042, type: 3}
+  - key: LongHu_10Dot
+    gameObject: {fileID: 8300000, guid: 10d5548439a456846884fcc92dffa85a, type: 3}
+  - key: LongHu_11Dot
+    gameObject: {fileID: 8300000, guid: 0526f51af40ecb04b96bfea8b18c1ac7, type: 3}
+  - key: LongHu_12Dot
+    gameObject: {fileID: 8300000, guid: 137eb9b824c81404dbb30ff52c2e1d90, type: 3}
+  - key: LongHu_13Dot
+    gameObject: {fileID: 8300000, guid: 472dfedec3ba6b7428af008f1c2b38e8, type: 3}
+  - key: LongHu_ChineseBoxerBG
+    gameObject: {fileID: 8300000, guid: 3dad6243d5a97914f96212de944be6f6, type: 3}
+  - key: LongHu_he
+    gameObject: {fileID: 8300000, guid: 726c43d42b88b9a4ebda9e4d8dfa2703, type: 3}
+  - key: LongHu_huwin
+    gameObject: {fileID: 8300000, guid: c34b1e4b2e59a1748a972c7043330ff1, type: 3}
+  - key: LongHu_LHDZ
+    gameObject: {fileID: 8300000, guid: 74556bd3ed5055e45a2f29825cd55f69, type: 3}
+  - key: LongHu_longwin
+    gameObject: {fileID: 8300000, guid: 01fcaf1681e587b46a315286db9ac4d4, type: 3}

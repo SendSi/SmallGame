@@ -1,0 +1,1500 @@
+fileFormatVersion: 2
+guid: 14cacf046fd273a42935805951af1b4d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_agency_normal
+    21300002: button_arrow_normal
+    21300004: button_baijiale_normal
+    21300006: button_bairenniuniu_normal
+    21300008: button_customer_normal
+    21300010: button_left_normal
+    21300012: button_longhudou_normal
+    21300014: button_notice_normal
+    21300016: button_rebagang_normal
+    21300018: button_recharge_normal
+    21300020: button_setting_normal
+    21300022: button_shop_normal
+    21300024: textrue_num1
+    21300026: texture_buttom_frame
+    21300028: texture_girl
+    21300030: texture_girl_shadow
+    21300032: texture_head_frame
+    21300034: texture_head_frame1
+    21300036: texture_head_frame2
+    21300038: texture_head_frame3
+    21300040: texture_head_frame4
+    21300042: texture_money_frame
+    21300044: texture_money_icon
+    21300046: texture_name_frame
+    21300048: texture_num2
+    21300050: texture_num3
+    21300052: texture_star
+    21300054: texture_headdemo
+    21300056: texture_update
+    21300058: texture_updatebg
+    21300060: marquee
+    21300062: textrue_marquee
+    21300064: texture_updatetip
+    21300066: button_login
+    21300068: texture_input
+    21300070: texture_logo
+    21300072: texture_frame0
+    21300074: texture_clip0
+    21300076: texture_area
+    21300078: texture_areaframe
+    21300080: texture_eye
+    21300082: texture_frame1
+    21300084: texture_securitycode
+    21300086: button_register
+    21300088: button_securitycode
+    21300090: texture_closeeye
+    21300092: texture_tab_noselect
+    21300094: texture_tab_select
+    21300096: button_close_normal
+    21300098: button_changeaccount_normal
+    21300100: button_changescene_normal
+    21300102: button_privacypolicy_normal
+    21300104: button_termsofservice_normal
+    21300106: button_useragree_normal
+    21300108: texture_sceneframe
+    21300110: texture_setting_noselect
+    21300112: texture_setting_select
+    21300114: texture_settingball_noselect
+    21300116: texture_settingball_select
+    21300118: texture_settingbgm
+    21300120: texture_settingline
+    21300122: texture_settingsfx
+    21300124: texture_settingshake
+    21300126: texture_ranking_select
+    21300128: texture_rankingcurrent
+    21300130: texture_rankinggold
+    21300132: texture_rankinggoldbg
+    21300134: texture_rankinghead
+    21300136: texture_rankingid
+    21300138: texture_rankingitembg
+    21300140: texture_rankingitemid
+    21300142: texture_rankingmybg
+    21300144: texture_rankingtitle
+    21300146: texture_rankingtype
+    21300148: texture_rankingheadframe
+    21300150: texture_settingheadframe
+    21300152: texture_settingscene
+    21300154: texture_gamenoticetitle
+    21300156: button_register_disable
+    21300158: button_register_normal
+    21300160: button_yellow_normal
+    21300162: texture_agencymoney_noselect
+    21300164: texture_alipay_noselect
+    21300166: texture_alipay_select
+    21300168: texture_num1
+    21300170: texture_rankingtitle2
+    21300172: texture_redpoint
+    21300174: texture_scene_noselect
+    21300176: texture_scene_select
+    21300178: texture_settingtitle
+    21300180: texture_shopdiamond
+    21300182: texture_shopicon
+    21300184: texture_shopitem
+    21300186: texture_shoptitle
+    21300188: button_back_normal
+    21300190: button_commit0_disable
+    21300192: button_commit0_normal
+    21300194: button_back1_normal
+    21300196: button_cancel_disable
+    21300198: button_cancel_normal
+    21300200: button_commit1_disable
+    21300202: button_commit1_normal
+    21300204: button_copyid_normal
+    21300206: button_copylink_normal
+    21300208: button_getsecuritycode
+    21300210: button_getsecuritycode_red
+    21300212: button_login_disable
+    21300214: button_newaccount_normal
+    21300216: button_search_normal
+    21300218: texture_agencytitle
+    21300220: texture_getmoneytitle
+    21300222: texture_headframe1
+    21300224: texture_headframe1_big
+    21300226: texture_headframe2
+    21300228: texture_headframe2_big
+    21300230: texture_headframe3
+    21300232: texture_headframe3_big
+    21300234: texture_headframe4_big
+    21300236: texture_idframe
+    21300238: texture_moneyframe
+    21300240: texture_newaccounttitle
+    21300242: texture_shopfarme
+    21300244: texture_userinfotitle
+    21300246: texture_toggle1_noselect
+    21300248: texture_toggle1_select
+    21300250: texture_toggle2_noselect
+    21300252: texture_toggle2_select
+    21300254: texture_toggle_noselect
+    21300256: texture_toggle_select
+    21300258: texture_headtitle
+    21300260: texture_sexboy
+    21300262: texture_sexgirl
+    21300264: texture_menubg
+    21300266: texture_menuline
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_agency_normal
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 909
+        width: 55
+        height: 69
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_arrow_normal
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 924
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_back1_normal
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1661
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_back_normal
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1871
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_cancel_disable
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1283
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_cancel_normal
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1306
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_changeaccount_normal
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1220
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_changescene_normal
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1369
+        width: 200
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_close_normal
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 942
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_commit0_disable
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1735
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_commit0_normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1762
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_commit1_disable
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1157
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_commit1_normal
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1243
+        width: 198
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_copyid_normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1044
+        width: 147
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_copylink_normal
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1106
+        width: 181
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_customer_normal
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1037
+        width: 56
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_getsecuritycode
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1418
+        width: 185
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_getsecuritycode_red
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 998
+        width: 145
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_left_normal
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1702
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_login
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1674
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_login_disable
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1586
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_newaccount_normal
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1046
+        width: 171
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_notice_normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 927
+        width: 54
+        height: 69
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_privacypolicy_normal
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1767
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_recharge_normal
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1833
+        width: 62
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52307695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_register_disable
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1498
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_register_normal
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1647
+        width: 283
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_search_normal
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1101
+        width: 171
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_securitycode
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1090
+        width: 181
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_setting_normal
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 904
+        width: 53
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.49275362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_shop_normal
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1489
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_termsofservice_normal
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1092
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_useragree_normal
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1091
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: button_yellow_normal
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1346
+        width: 185
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: textrue_marquee
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1666
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_area
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 907
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_areaframe
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1900
+        width: 357
+        height: 57
+      alignment: 9
+      pivot: {x: 0.49859944, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_clip0
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2022
+        width: 2
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_closeeye
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1805
+        width: 40
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_eye
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1832
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_frame0
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1584
+        width: 275
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_frame1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1101
+        width: 238
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headdemo
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1561
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5067568, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1793
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe1_big
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1065
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1689
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe2_big
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1284
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1715
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe3_big
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 980
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headframe4_big
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1157
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_idframe
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1072
+        width: 172
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_input
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1850
+        width: 506
+        height: 97
+      alignment: 9
+      pivot: {x: 0.49901184, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_logo
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1434
+        width: 211
+        height: 109
+      alignment: 9
+      pivot: {x: 0.50236964, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_menubg
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1423
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_menuline
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2014
+        width: 2
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_money_icon
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 888
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_moneyframe
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1054
+        width: 149
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_num1
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1049
+        width: 59
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5121951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_num2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1048
+        width: 59
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5243902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_num3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1005
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_rankingtitle
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1251
+        width: 99
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_redpoint
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 948
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_sceneframe
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1158
+        width: 250
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_securitycode
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1823
+        width: 301
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49833888, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_setting_noselect
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1610
+        width: 150
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_setting_select
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1559
+        width: 150
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingball_noselect
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1913
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingball_select
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1867
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingbgm
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 965
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.44827586, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingline
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1698
+        width: 2
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingscene
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1164
+        width: 244
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingsfx
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1072
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingshake
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1662
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_shopdiamond
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 960
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_shopfarme
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1052
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_shopicon
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1959
+        width: 406
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52840906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_shopitem
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1545
+        width: 211
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_shoptitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1949
+        width: 592
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_star
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 975
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_tab_noselect
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1811
+        width: 219
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_tab_select
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1400
+        width: 260
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_toggle1_noselect
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1308
+        width: 253
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_toggle1_select
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1308
+        width: 253
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_toggle2_noselect
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1490
+        width: 181
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_toggle2_select
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1174
+        width: 181
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_toggle_noselect
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1492
+        width: 264
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_toggle_select
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1400
+        width: 264
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_update
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1637
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_updatebg
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 973
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_updatetip
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1377
+        width: 97
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

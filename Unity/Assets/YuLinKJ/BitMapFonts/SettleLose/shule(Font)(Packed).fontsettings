@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &12800000
+Font:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: shule(Font)(Packed)
+  serializedVersion: 5
+  m_LineSpacing: 0
+  m_DefaultMaterial: {fileID: 2100000, guid: 556cc2eb5611d76499aa583759a2f527, type: 2}
+  m_FontSize: 0
+  m_Texture: {fileID: 0}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 0
+  m_CharacterPadding: 1
+  m_ConvertCase: 0
+  m_CharacterRects:
+  - serializedVersion: 2
+    index: 19968
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.07421875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 38
+      height: -80
+    advance: 38
+    flipped: 0
+  - serializedVersion: 2
+    index: 48
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.6328125
+      width: 0.078125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 40
+      height: -80
+    advance: 40
+    flipped: 0
+  - serializedVersion: 2
+    index: 49
+    uv:
+      serializedVersion: 2
+      x: 0.890625
+      y: 0
+      width: 0.068359375
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 35
+      height: -80
+    advance: 35
+    flipped: 0
+  - serializedVersion: 2
+    index: 50
+    uv:
+      serializedVersion: 2
+      x: 0.8183594
+      y: 0.31640625
+      width: 0.0703125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 36
+      height: -80
+    advance: 36
+    flipped: 0
+  - serializedVersion: 2
+    index: 51
+    uv:
+      serializedVersion: 2
+      x: 0.74609375
+      y: 0.31640625
+      width: 0.0703125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 36
+      height: -80
+    advance: 36
+    flipped: 0
+  - serializedVersion: 2
+    index: 52
+    uv:
+      serializedVersion: 2
+      x: 0.6660156
+      y: 0.31640625
+      width: 0.078125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 40
+      height: -80
+    advance: 40
+    flipped: 0
+  - serializedVersion: 2
+    index: 53
+    uv:
+      serializedVersion: 2
+      x: 0.59765625
+      y: 0.31640625
+      width: 0.06640625
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 34
+      height: -80
+    advance: 34
+    flipped: 0
+  - serializedVersion: 2
+    index: 54
+    uv:
+      serializedVersion: 2
+      x: 0.51953125
+      y: 0.31640625
+      width: 0.076171875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 39
+      height: -80
+    advance: 39
+    flipped: 0
+  - serializedVersion: 2
+    index: 55
+    uv:
+      serializedVersion: 2
+      x: 0.44335938
+      y: 0.31640625
+      width: 0.07421875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 38
+      height: -80
+    advance: 38
+    flipped: 0
+  - serializedVersion: 2
+    index: 56
+    uv:
+      serializedVersion: 2
+      x: 0.3671875
+      y: 0.31640625
+      width: 0.07421875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 38
+      height: -80
+    advance: 38
+    flipped: 0
+  - serializedVersion: 2
+    index: 57
+    uv:
+      serializedVersion: 2
+      x: 0.29101562
+      y: 0.31640625
+      width: 0.07421875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 38
+      height: -80
+    advance: 38
+    flipped: 0
+  - serializedVersion: 2
+    index: 46
+    uv:
+      serializedVersion: 2
+      x: 0.25976562
+      y: 0.31640625
+      width: 0.029296875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 15
+      height: -80
+    advance: 15
+    flipped: 0
+  - serializedVersion: 2
+    index: 38386
+    uv:
+      serializedVersion: 2
+      x: 0.13476562
+      y: 0.31640625
+      width: 0.123046875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 63
+      height: -80
+    advance: 63
+    flipped: 0
+  - serializedVersion: 2
+    index: 23545
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.31640625
+      width: 0.1328125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 68
+      height: -80
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 24196
+    uv:
+      serializedVersion: 2
+      x: 0.7324219
+      y: 0
+      width: 0.1328125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 68
+      height: -80
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 24744
+    uv:
+      serializedVersion: 2
+      x: 0.59765625
+      y: 0
+      width: 0.1328125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 68
+      height: -80
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 26412
+    uv:
+      serializedVersion: 2
+      x: 0.46289062
+      y: 0
+      width: 0.1328125
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 68
+      height: -80
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 23616
+    uv:
+      serializedVersion: 2
+      x: 0.33398438
+      y: 0
+      width: 0.12695312
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 65
+      height: -80
+    advance: 65
+    flipped: 0
+  - serializedVersion: 2
+    index: 36755
+    uv:
+      serializedVersion: 2
+      x: 0.20117188
+      y: 0
+      width: 0.13085938
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 67
+      height: -80
+    advance: 67
+    flipped: 0
+  - serializedVersion: 2
+    index: 20102
+    uv:
+      serializedVersion: 2
+      x: 0.076171875
+      y: 0
+      width: 0.123046875
+      height: 0.3125
+    vert:
+      serializedVersion: 2
+      x: -0
+      y: 0
+      width: 63
+      height: -80
+    advance: 63
+    flipped: 0
+  m_KerningValues: []
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 0
+  m_Descent: 0
+  m_DefaultStyle: 0
+  m_FontNames: []
+  m_FallbackFonts: []
+  m_FontRenderingMode: 0
+  m_UseLegacyBoundsCalculation: 0

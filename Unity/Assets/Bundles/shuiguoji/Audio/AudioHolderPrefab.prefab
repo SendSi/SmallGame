@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: FruitGame_BetButton0
+    gameObject: {fileID: 8300000, guid: 971f35f80ed71ee46a67052992a6fc03, type: 3}
+  - key: FruitGame_BetButton1
+    gameObject: {fileID: 8300000, guid: 82eb54b0e8bab2a4ba3b02ba276b24af, type: 3}
+  - key: FruitGame_BetButton2
+    gameObject: {fileID: 8300000, guid: 39b68371a3586ef41b2c391439b855f4, type: 3}
+  - key: FruitGame_BetButton3
+    gameObject: {fileID: 8300000, guid: f12b119e84ec10c46b5de18eed1ef0ab, type: 3}
+  - key: FruitGame_BetButton4
+    gameObject: {fileID: 8300000, guid: 4c51e5067e6d3c642a957aefb6257eec, type: 3}
+  - key: FruitGame_BetButton5
+    gameObject: {fileID: 8300000, guid: 065234017225c9542b25a47a5604755b, type: 3}
+  - key: FruitGame_BetButton6
+    gameObject: {fileID: 8300000, guid: b72fb6513cd97ca479146b49c46e0cb1, type: 3}
+  - key: FruitGame_BetButton7
+    gameObject: {fileID: 8300000, guid: b5d86f522016efd49becd1763e977cf3, type: 3}
+  - key: FruitGame_BG
+    gameObject: {fileID: 8300000, guid: 73a73f421df043442acd270950b86962, type: 3}
+  - key: FruitGame_whirl1
+    gameObject: {fileID: 8300000, guid: 2d2c7f470758d634c924da7f1d5ed1c7, type: 3}
+  - key: FruitGame_whirl2
+    gameObject: {fileID: 8300000, guid: 6a01a40410f938b4db240099fbc630b9, type: 3}
+  - key: FruitGame_whirl3
+    gameObject: {fileID: 8300000, guid: 9b4aa0dd91de9c6478a1bbd57fbfcdfd, type: 3}
+  - key: FruitGame_FruitWin
+    gameObject: {fileID: 8300000, guid: 2854685a72dc9824183cf415852a6928, type: 3}
+  - key: FruitGame_luckyLose
+    gameObject: {fileID: 8300000, guid: 4759a619ab1d45342a1b860c6e88aef5, type: 3}
+  - key: FruitGame_luckyWin
+    gameObject: {fileID: 8300000, guid: 1ba1fccc9ebe7c340955cca2cf51a8d5, type: 3}

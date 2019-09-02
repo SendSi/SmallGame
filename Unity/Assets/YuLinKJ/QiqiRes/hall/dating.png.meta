@@ -1,0 +1,1102 @@
+fileFormatVersion: 2
+guid: ba50b99bd06af0a4a9433f1a109f53a8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dating_duihuanimg
+    21300002: dating_zhuceimg
+    21300004: dating_gonggaoimg
+    21300006: dating_kefuimg
+    21300008: dating_dailiimg
+    21300010: dating_paihangbangimg
+    21300012: dating_chongzhiimg
+    21300014: dating_baoxianxiangimg
+    21300016: dating_jinbiimg
+    21300018: dating_fuzhiwangzhiBtn
+    21300020: dating_touxiangkuangImg
+    21300022: dating_labatiaoimg
+    21300024: dating_hongdianimg
+    21300026: dating_jiahaoimg
+    21300028: dating_juhuaImg
+    21300030: dating_zhucetxt
+    21300032: dating_jinbidi
+    21300034: dating_shurukaungimg
+    21300036: dating_jinduIcon
+    21300038: dating_jinduImg
+    21300040: dating_huangseTog
+    21300042: dating_zhanghaotxt
+    21300044: dating_youkedenglutxt
+    21300046: dating_31
+    21300048: dating_32
+    21300050: dating_33
+    21300052: dating_bangdingzhanghaotxt
+    21300054: dating_mimatxt
+    21300056: dating_36
+    21300058: dating_fuzhiweixinhaotxt
+    21300060: dating_bangdingtxt
+    21300062: dating_39
+    21300064: dating_lanseTog
+    21300066: dating_yaoqinghaoyousaomiaoerweimaicon
+    21300068: dating_bangdingyinhangkatxt
+    21300070: dating_bangdingzhifubaotxt
+    21300072: dating_shaiziicon
+    21300074: dating_pokericon
+    21300076: dating_lijichongzhitxt
+    21300078: dating_majiangicon
+    21300080: dating_jinruyouxitxt
+    21300082: dating_quedingtxt
+    21300084: dating_50
+    21300086: dating_lijibangdingzhifubaobtn
+    21300088: dating_denglutxt
+    21300090: dating_53
+    21300092: dating_lijizhucebtn
+    21300094: dating_zhifubaotxt
+    21300096: dating_dailitxt
+    21300098: dating_chongzhitxt
+    21300100: dating_shenqingtxt
+    21300102: dating_changjianwentitxt
+    21300104: dating_60
+    21300106: dating_weixintxt
+    21300108: dating_quchutxt
+    21300110: dating_chongzhitxtred
+    21300112: dating_cunrutxt
+    21300114: dating_66
+    21300116: dating_changjianwentitxtred
+    21300118: dating_68
+    21300120: dating_cunrutxtblue
+    21300122: dating_zhifubaotxtred
+    21300124: dating_weixintxtred
+    21300126: dating_dailitxtred
+    21300128: dating_shenqingtxtred
+    21300130: dating_quchutxtred
+    21300132: dating_76
+    21300134: dating_quanmindailiimg
+    21300136: dating_duihuandaotxtlanse
+    21300138: dating_duihuandaotxtred
+    21300140: dating_yinhangkatxt
+    21300142: dating_yinhangkatxtred
+    21300144: dating_xiazaijindu2
+    21300146: dating_xiazaijindu1
+    21300148: dating_genngxinimg
+    21300150: dating_zuojiantou
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dating_duihuanimg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_zhuceimg
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 940
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_gonggaoimg
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 912
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_kefuimg
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 940
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_dailiimg
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 940
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_paihangbangimg
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 912
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_chongzhiimg
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 910
+        width: 274
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_baoxianxiangimg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_jinbiimg
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 823
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_fuzhiwangzhiBtn
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 823
+        width: 155
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_touxiangkuangImg
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 793
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_labatiaoimg
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 827
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 73, y: 4, z: 15, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_hongdianimg
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 831
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_jiahaoimg
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 825
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_juhuaImg
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 770
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_zhucetxt
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 758
+        width: 111
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_jinbidi
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 716
+        width: 243
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_shurukaungimg
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 705
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 13, z: 14, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_huangseTog
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 631
+        width: 358
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_zhanghaotxt
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 650
+        width: 146
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_youkedenglutxt
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 642
+        width: 189
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_bangdingzhanghaotxt
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 640
+        width: 163
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_mimatxt
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 146
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_fuzhiweixinhaotxt
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 584
+        width: 237
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_bangdingtxt
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 589
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_lanseTog
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 505
+        width: 338
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_yaoqinghaoyousaomiaoerweimaicon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 332
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_bangdingyinhangkatxt
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 537
+        width: 202
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_bangdingzhifubaotxt
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 486
+        width: 202
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_shaiziicon
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 399
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_pokericon
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 386
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_lijichongzhitxt
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 435
+        width: 178
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_majiangicon
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 408
+        width: 120
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_jinruyouxitxt
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 384
+        width: 162
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_quedingtxt
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 332
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_lijibangdingzhifubaobtn
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 282
+        width: 360
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_denglutxt
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 278
+        width: 109
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_lijizhucebtn
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 179
+        width: 360
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_zhifubaotxt
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 128
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_dailitxt
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 119
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_chongzhitxt
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 119
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_shenqingtxt
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 119
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_changjianwentitxt
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 119
+        width: 187
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 135
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_weixintxt
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 60
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_quchutxt
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 61
+        width: 111
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_chongzhitxtred
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 61
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_cunrutxt
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 61
+        width: 110
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_changjianwentitxtred
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 61
+        width: 187
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_cunrutxtblue
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_zhifubaotxtred
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 141
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_weixintxtred
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_dailitxtred
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_shenqingtxtred
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_quchutxtred
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 108
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_quanmindailiimg
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 199
+        width: 161
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_duihuandaotxtlanse
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 59
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_duihuandaotxtred
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 17
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_yinhangkatxt
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 226
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_yinhangkatxtred
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 184
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_xiazaijindu2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 354
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_xiazaijindu1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 715
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_genngxinimg
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 701
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dating_zuojiantou
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 960
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

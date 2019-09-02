@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1139455787282474}
+  m_IsPrefabParent: 1
+--- !u!1 &1139455787282474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049748288864942}
+  - component: {fileID: 114304096733817060}
+  m_Layer: 0
+  m_Name: AudioHolderPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049748288864942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114304096733817060
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1139455787282474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+  - key: ErBaGang_0Dian
+    gameObject: {fileID: 8300000, guid: f168f925147be594295270cf05633f02, type: 3}
+  - key: ErBaGang_1Dian
+    gameObject: {fileID: 8300000, guid: eb567e93c93855c40880b18493bffb30, type: 3}
+  - key: ErBaGang_2Dian
+    gameObject: {fileID: 8300000, guid: 5aae658020b4d1b43b004c8c100734a3, type: 3}
+  - key: ErBaGang_3Dian
+    gameObject: {fileID: 8300000, guid: cea8c72b5f9d14540bff45ad5ede35e5, type: 3}
+  - key: ErBaGang_4Dian
+    gameObject: {fileID: 8300000, guid: a9020fa5fdca6d64a8a1621c23163fb6, type: 3}
+  - key: ErBaGang_5Dian
+    gameObject: {fileID: 8300000, guid: ae1a9b4b589729240a8c9cd46191a07a, type: 3}
+  - key: ErBaGang_6Dian
+    gameObject: {fileID: 8300000, guid: 7ac0de067f390e54a883ff2604beae0d, type: 3}
+  - key: ErBaGang_7Dian
+    gameObject: {fileID: 8300000, guid: b40e6c992f8c27b47ab2897e66e0603f, type: 3}
+  - key: ErBaGang_8Dian
+    gameObject: {fileID: 8300000, guid: c243723ba2c1479469b3260ea1ae6f9c, type: 3}
+  - key: ErBaGang_9Dian
+    gameObject: {fileID: 8300000, guid: 6be0d129e04994e40bd250cf5b83734f, type: 3}
+  - key: ErBaGang_BaoZi
+    gameObject: {fileID: 8300000, guid: 3a7666751a05d8148a25234b0af288dc, type: 3}
+  - key: ErBaGang_BG
+    gameObject: {fileID: 8300000, guid: b1df33c55f5f41c4fb361fdfcf3926bc, type: 3}
+  - key: ErBaGang_SendCard
+    gameObject: {fileID: 8300000, guid: 4ebd2c9e7801a0c45bd67948cedf5da6, type: 3}
+  - key: ErBaGang_ShaiZi
+    gameObject: {fileID: 8300000, guid: 43c0eb7627f4e3f4ca50dd78e5b06a7f, type: 3}
+  - key: ErBaGang_ShowCard
+    gameObject: {fileID: 8300000, guid: 19e127231b0e91e47aae82d985be1ec1, type: 3}
+  - key: ErBaGang_Shuff
+    gameObject: {fileID: 8300000, guid: b9708785ccc385a43949e572e973d77e, type: 3}
+  - key: ErBaGang_TianGang
+    gameObject: {fileID: 8300000, guid: 6812cd46631a4264c859b8f40cc24add, type: 3}
+  - key: ErBaGang_Win1
+    gameObject: {fileID: 8300000, guid: 67a4a508dc55b444a91365cef5719c77, type: 3}
+  - key: ErBaGang_Win2
+    gameObject: {fileID: 8300000, guid: 77f94ffa5886b4a489202aec7c3348c2, type: 3}
+  - key: ErBaGang_Win3
+    gameObject: {fileID: 8300000, guid: edc576e6052d6ab47b2d0f5732f362c0, type: 3}

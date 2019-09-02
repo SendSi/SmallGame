@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: laohu_Data
+  m_EditorClassIdentifier: 
+  dataName: laohu
+  dragonBonesJSON: {fileID: 4900000, guid: 51987d50e72a85d4eb1cc302eddad204, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: a26cbeab5cca8bb45a78bcbce388808b, type: 3}
+    texture: {fileID: 2800000, guid: 60673c4c46b775445a553606c88d6eaf, type: 3}
+    material: {fileID: 2100000, guid: db27f21aaa73fbf41a9417268f0fceac, type: 2}
+    uiMaterial: {fileID: 2100000, guid: c9526f49d8e528841a78e5fda4916519, type: 2}

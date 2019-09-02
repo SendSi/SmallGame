@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: b631dfde86bebca40bbdc511b62f30d8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: texture_dialog0
+    21300002: texture_dialog1
+    21300004: texture_dialog2
+    21300006: texture_dialog3
+    21300008: texture_dialog4
+    21300010: texture_dialog5
+    21300012: texture_dialog6
+    21300014: dialog_title_tip
+    21300016: btn_close
+    21300018: img_neikuang_0
+    21300020: img_neikuang_1
+    21300022: img_title_0
+    21300024: img_title_1
+    21300026: img_title_2
+    21300028: img_waikuang
+    21300030: texture_agencytitle
+    21300032: texture_gamenoticetitle
+    21300034: texture_getmoneytitle
+    21300036: texture_headtitle
+    21300038: texture_newaccounttitle
+    21300040: texture_settingtitle
+    21300042: texture_userinfotitle
+    21300044: texture_privacyPolicytitle
+    21300046: texture_termsOfservicetitle
+    21300048: texture_useragreetitle
+    21300050: dialog_title_tip_tuichu
+    21300052: texture_record
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: btn_close
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 898
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dialog_title_tip
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 602
+        width: 161
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: dialog_title_tip_tuichu
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 565
+        width: 161
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_neikuang_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 691
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 42, z: 30, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_neikuang_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 36, z: 27, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_title_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 954
+        width: 482
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_title_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 771
+        width: 358
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_title_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 842
+        width: 394
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: img_waikuang
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 435
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 34, z: 36, w: 32}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_agencytitle
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 639
+        width: 221
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_gamenoticetitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 566
+        width: 169
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49704143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_getmoneytitle
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 558
+        width: 167
+        height: 39
+      alignment: 9
+      pivot: {x: 0.502994, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_headtitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 730
+        width: 341
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_newaccounttitle
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 599
+        width: 172
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_privacyPolicytitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 174
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48850575, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_record
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 821
+        width: 79
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_settingtitle
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 858
+        width: 85
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_termsOfservicetitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 606
+        width: 172
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_useragreetitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 689
+        width: 255
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5019608, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: texture_userinfotitle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 913
+        width: 434
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

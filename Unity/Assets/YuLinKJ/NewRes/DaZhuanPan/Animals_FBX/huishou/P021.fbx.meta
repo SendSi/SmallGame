@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: bcf55ac54e4c6be4ba94e5cc77746544
+timeCreated: 1529481142
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pand:Ankle_L
+    100004: pand:Ankle_R
+    100006: pand:Chest_M
+    100008: pand:Elbow_L
+    100010: pand:Elbow_R
+    100012: pand:Eye_L
+    100014: pand:Eye_R
+    100016: pand:EyeEnd_L
+    100018: pand:EyeEnd_R
+    100020: pand:Head_M
+    100022: pand:HeadEnd_M
+    100024: pand:Hip_L
+    100026: pand:Hip_R
+    100028: pand:IndexFinger1_L
+    100030: pand:IndexFinger1_R
+    100032: pand:IndexFinger2_L
+    100034: pand:IndexFinger2_R
+    100036: pand:IndexFinger3_L
+    100038: pand:IndexFinger3_R
+    100040: pand:IndexFinger4_L
+    100042: pand:IndexFinger4_R
+    100044: pand:Jaw_M
+    100046: pand:JawEnd_M
+    100048: pand:Knee_L
+    100050: pand:Knee_R
+    100052: pand:MiddleFinger1_L
+    100054: pand:MiddleFinger1_R
+    100056: pand:MiddleFinger2_L
+    100058: pand:MiddleFinger2_R
+    100060: pand:MiddleFinger3_L
+    100062: pand:MiddleFinger3_R
+    100064: pand:MiddleFinger4_L
+    100066: pand:MiddleFinger4_R
+    100068: pand:Neck_M
+    100070: pand:P010:polySurface1
+    100072: pand:P01:polySurface1
+    100074: pand:P03:polySurface1
+    100076: pand:P04:polySurface1
+    100078: pand:P07:polySurface1
+    100080: pand:P08:polySurface1
+    100082: pand:P09:polySurface1
+    100084: pand:P10:polySurface1
+    100086: pand:P11:polySurface1
+    100088: pand:Panda
+    100090: pand:polySurface1
+    100092: pand:polySurface8
+    100094: pand:Root_M
+    100096: pand:Scapula_L
+    100098: pand:Scapula_R
+    100100: pand:ShenTi
+    100102: pand:Shoulder_L
+    100104: pand:Shoulder_R
+    100106: pand:Spine1_M
+    100108: pand:ThumbFinger1_L
+    100110: pand:ThumbFinger1_R
+    100112: pand:ThumbFinger2_L
+    100114: pand:ThumbFinger2_R
+    100116: pand:ThumbFinger3_L
+    100118: pand:ThumbFinger3_R
+    100120: pand:ThumbFinger4_L
+    100122: pand:ThumbFinger4_R
+    100124: pand:Tou
+    100126: pand:WeiBa
+    100128: pand:Wrist_L
+    100130: pand:Wrist_R
+    400000: //RootNode
+    400002: pand:Ankle_L
+    400004: pand:Ankle_R
+    400006: pand:Chest_M
+    400008: pand:Elbow_L
+    400010: pand:Elbow_R
+    400012: pand:Eye_L
+    400014: pand:Eye_R
+    400016: pand:EyeEnd_L
+    400018: pand:EyeEnd_R
+    400020: pand:Head_M
+    400022: pand:HeadEnd_M
+    400024: pand:Hip_L
+    400026: pand:Hip_R
+    400028: pand:IndexFinger1_L
+    400030: pand:IndexFinger1_R
+    400032: pand:IndexFinger2_L
+    400034: pand:IndexFinger2_R
+    400036: pand:IndexFinger3_L
+    400038: pand:IndexFinger3_R
+    400040: pand:IndexFinger4_L
+    400042: pand:IndexFinger4_R
+    400044: pand:Jaw_M
+    400046: pand:JawEnd_M
+    400048: pand:Knee_L
+    400050: pand:Knee_R
+    400052: pand:MiddleFinger1_L
+    400054: pand:MiddleFinger1_R
+    400056: pand:MiddleFinger2_L
+    400058: pand:MiddleFinger2_R
+    400060: pand:MiddleFinger3_L
+    400062: pand:MiddleFinger3_R
+    400064: pand:MiddleFinger4_L
+    400066: pand:MiddleFinger4_R
+    400068: pand:Neck_M
+    400070: pand:P010:polySurface1
+    400072: pand:P01:polySurface1
+    400074: pand:P03:polySurface1
+    400076: pand:P04:polySurface1
+    400078: pand:P07:polySurface1
+    400080: pand:P08:polySurface1
+    400082: pand:P09:polySurface1
+    400084: pand:P10:polySurface1
+    400086: pand:P11:polySurface1
+    400088: pand:Panda
+    400090: pand:polySurface1
+    400092: pand:polySurface8
+    400094: pand:Root_M
+    400096: pand:Scapula_L
+    400098: pand:Scapula_R
+    400100: pand:ShenTi
+    400102: pand:Shoulder_L
+    400104: pand:Shoulder_R
+    400106: pand:Spine1_M
+    400108: pand:ThumbFinger1_L
+    400110: pand:ThumbFinger1_R
+    400112: pand:ThumbFinger2_L
+    400114: pand:ThumbFinger2_R
+    400116: pand:ThumbFinger3_L
+    400118: pand:ThumbFinger3_R
+    400120: pand:ThumbFinger4_L
+    400122: pand:ThumbFinger4_R
+    400124: pand:Tou
+    400126: pand:WeiBa
+    400128: pand:Wrist_L
+    400130: pand:Wrist_R
+    4300000: pand:ShenTi
+    4300002: pand:WeiBa
+    4300004: pand:P03:polySurface1
+    4300006: pand:P04:polySurface1
+    4300008: pand:P07:polySurface1
+    4300010: pand:P08:polySurface1
+    4300012: pand:P09:polySurface1
+    4300014: pand:P10:polySurface1
+    4300016: pand:P11:polySurface1
+    4300018: pand:P01:polySurface1
+    4300020: pand:P010:polySurface1
+    4300022: pand:polySurface1
+    4300024: pand:polySurface8
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pand:P010:polySurface1
+    13700002: pand:P01:polySurface1
+    13700004: pand:P03:polySurface1
+    13700006: pand:P04:polySurface1
+    13700008: pand:P07:polySurface1
+    13700010: pand:P08:polySurface1
+    13700012: pand:P09:polySurface1
+    13700014: pand:P10:polySurface1
+    13700016: pand:P11:polySurface1
+    13700018: pand:polySurface1
+    13700020: pand:polySurface8
+    13700022: pand:ShenTi
+    13700024: pand:WeiBa
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pand_lambert2
+    second: {fileID: 2100000, guid: 50a5a9cafc157654f9bb90e03cdf6c6e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: pand:Panda
+        weight: 1
+      - path: pand:Panda/pand:ShenTi
+        weight: 1
+      - path: pand:Panda/pand:Tou
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P01:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P03:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P04:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P07:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P08:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P09:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P010:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P10:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:P11:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:polySurface1
+        weight: 1
+      - path: pand:Panda/pand:Tou/pand:polySurface8
+        weight: 1
+      - path: pand:Panda/pand:WeiBa
+        weight: 1
+      - path: pand:Root_M
+        weight: 1
+      - path: pand:Root_M/pand:Hip_L
+        weight: 1
+      - path: pand:Root_M/pand:Hip_L/pand:Knee_L
+        weight: 1
+      - path: pand:Root_M/pand:Hip_L/pand:Knee_L/pand:Ankle_L
+        weight: 1
+      - path: pand:Root_M/pand:Hip_R
+        weight: 1
+      - path: pand:Root_M/pand:Hip_R/pand:Knee_R
+        weight: 1
+      - path: pand:Root_M/pand:Hip_R/pand:Knee_R/pand:Ankle_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:Eye_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:Eye_L/pand:EyeEnd_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:Eye_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:Eye_R/pand:EyeEnd_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:HeadEnd_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:Jaw_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Neck_M/pand:Head_M/pand:Jaw_M/pand:JawEnd_M
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:IndexFinger1_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:IndexFinger1_L/pand:IndexFinger2_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:IndexFinger1_L/pand:IndexFinger2_L/pand:IndexFinger3_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:IndexFinger1_L/pand:IndexFinger2_L/pand:IndexFinger3_L/pand:IndexFinger4_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:MiddleFinger1_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:MiddleFinger1_L/pand:MiddleFinger2_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:MiddleFinger1_L/pand:MiddleFinger2_L/pand:MiddleFinger3_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:MiddleFinger1_L/pand:MiddleFinger2_L/pand:MiddleFinger3_L/pand:MiddleFinger4_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:ThumbFinger1_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:ThumbFinger1_L/pand:ThumbFinger2_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:ThumbFinger1_L/pand:ThumbFinger2_L/pand:ThumbFinger3_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_L/pand:Shoulder_L/pand:Elbow_L/pand:Wrist_L/pand:ThumbFinger1_L/pand:ThumbFinger2_L/pand:ThumbFinger3_L/pand:ThumbFinger4_L
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:IndexFinger1_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:IndexFinger1_R/pand:IndexFinger2_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:IndexFinger1_R/pand:IndexFinger2_R/pand:IndexFinger3_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:IndexFinger1_R/pand:IndexFinger2_R/pand:IndexFinger3_R/pand:IndexFinger4_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:MiddleFinger1_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:MiddleFinger1_R/pand:MiddleFinger2_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:MiddleFinger1_R/pand:MiddleFinger2_R/pand:MiddleFinger3_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:MiddleFinger1_R/pand:MiddleFinger2_R/pand:MiddleFinger3_R/pand:MiddleFinger4_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:ThumbFinger1_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:ThumbFinger1_R/pand:ThumbFinger2_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:ThumbFinger1_R/pand:ThumbFinger2_R/pand:ThumbFinger3_R
+        weight: 1
+      - path: pand:Root_M/pand:Spine1_M/pand:Chest_M/pand:Scapula_R/pand:Shoulder_R/pand:Elbow_R/pand:Wrist_R/pand:ThumbFinger1_R/pand:ThumbFinger2_R/pand:ThumbFinger3_R/pand:ThumbFinger4_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 2
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

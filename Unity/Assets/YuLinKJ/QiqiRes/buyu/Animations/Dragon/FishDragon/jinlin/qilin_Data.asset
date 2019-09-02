@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: qilin_Data
+  m_EditorClassIdentifier: 
+  dataName: qilin
+  dragonBonesJSON: {fileID: 4900000, guid: 292b2857334fb544aac614d222446014, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 601adf40b36edfc4e8a09e27b64e58ff, type: 3}
+    texture: {fileID: 2800000, guid: 4c394c591728cdc4ab93d06783733fd7, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: 1553962aa3d2d0b41bb004b52ec7113d, type: 2}
